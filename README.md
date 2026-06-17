@@ -75,7 +75,7 @@ A compiler construction project implementing:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * GitHub: [https://github.com/hamasali111]
 * LinkedIn: 
